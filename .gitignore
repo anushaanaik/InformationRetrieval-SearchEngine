@@ -1,2 +1,5 @@
 ir_env/
+*.pdf
+*.docx
+*.ipynb
 __pycache__/
